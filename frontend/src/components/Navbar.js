@@ -12,8 +12,8 @@ function Navbar(){
    <Link style={{color:"white", marginRight:"15px"}} to="/mision">Misión</Link>
    <Link style={{color:"white", marginRight:"15px"}} to="/vision">Visión</Link>
    <Link style={{color:"white", marginRight:"15px"}} to="/politicas">Políticas</Link>
+   <Link style={{color:"white", marginRight:"15px"}} to="/login">Login</Link>
    <Link style={{color:"white"}} to="/ubicacion">Ubicación</Link>
-
   </div>
  );
 }
