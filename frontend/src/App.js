@@ -8,11 +8,17 @@ import Mision from "./pages/Mision";
 import Vision from "./pages/Vision";
 import Politicas from "./pages/Politicas";
 import Ubicacion from "./pages/Ubicacion";
+import logo from "./assets/logo.png";
 
 function App() {
   return (
     <BrowserRouter>
 
+   <img 
+     src={logo} 
+     alt="ModaLocalMX"
+     style={{width:"240px", marginRight:"50px"}}
+   />
       <Navbar />
 
       <Routes>
