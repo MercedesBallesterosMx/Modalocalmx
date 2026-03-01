@@ -4,9 +4,11 @@ function Politicas(){
    <h1>Políticas de calidad</h1>
 
    <ul>
-    <li>Seguridad de datos</li>
-    <li>Control de acceso</li>
-    <li>Optimización del sistema</li>
+<li>Desarrollar un sistema funcional y accesible para los usuarios.</li>
+<li>Garantizar una interfaz clara y fácil de utilizar.</li>
+<li>Mantener buenas prácticas de programación.</li>
+<li>Validar continuamente el funcionamiento del sistema.</li>
+<li>Mejorar el sistema mediante pruebas y retroalimentación constante.</li>
    </ul>
   </div>
  );
